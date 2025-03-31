@@ -4,5 +4,6 @@ class Main {
         System.out.println("Значительное изменение 1");
         System.out.println("Значительное изменение 2");
         System.out.println("Значительное изменение 3");
+        System.out.println("Значительное изменение 4");
     }
 }
