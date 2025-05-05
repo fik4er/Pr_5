@@ -6,4 +6,7 @@ class Main{
     public static void newMethod() {
         System.out.println("Новый метод в dev");
     }
+    public static String messageGen(){
+        return "Какое-то сообщение в dev";
+    }
 }
